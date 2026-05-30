@@ -28,7 +28,7 @@ Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme dünyasınd
   perasyonel süreçleri dijitalleştiren kapsamlı bir yönetim sistemi.
 
 ## 📫 İletişim
- Benimle iletişime geçmek ve projelerim hakkında geri bildirimde bulunmak isterseniz:
+ Benimle iletişime geçmek isterseniz:
 - LinkedIn: www.linkedin.com/in/helin-aydın-694221406
 - GitHub: https://github.com/helinaydn0440-spec
 
