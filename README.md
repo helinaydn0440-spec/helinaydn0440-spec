@@ -31,7 +31,9 @@ Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme dünyasınd
  Benimle iletişime geçmek ve projelerim hakkında geri bildirimde bulunmak isterseniz:
 - LinkedIn: www.linkedin.com/in/helin-aydın-694221406
 - GitHub: https://github.com/helinaydn0440-spec
- İncelediğiniz için Teşekkür Ederim!
+
+
+İncelediğiniz için Teşekkür Ederim!
 ---
 
 
