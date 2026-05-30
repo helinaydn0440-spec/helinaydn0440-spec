@@ -6,7 +6,7 @@ Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme dünyasınd
 - **Programlama Dilleri:** C#
 - **Teknolojiler & Araçlar:** .NET Framework, Windows Forms (WinForms), Git/GitHub
 - **Veri Yönetimi:** Dosya tabanlı (file-based) veri yapıları, CRUD operasyonları
-- **Python
+- **Python**
 
 ## 🚀 Öne Çıkan Projelerim
 Şu anda üzerinde çalıştığım ve geliştirdiğim projelerimi aşağıdan inceleyebilirsiniz:
