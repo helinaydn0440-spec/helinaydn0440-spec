@@ -13,7 +13,7 @@ Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme dünyasınd
 
 - Muhtarlık Kayıt Sistemi (C# & SQL Server): https://github.com/helinaydn0440-spec/Muhtarlik_kayit_Sistemi
   İlişkisel veritabanı modelleme
-  Stored Procedure ve View kullanımı ile profesyonel bir veritabanı yönetimi simülasyonu.
+  Stored Procedure ve View kullanımı ile profesyonel bir veritabanı yönetimi.
 
 - Muhtarlık Kayıt Sistemi (C# & WinForms): https://github.com/helinaydn0440-spec/Muhtarlik_Kayit_Sistemi_WinForms
   Veritabanı kurulumu gerektirmeyen,
