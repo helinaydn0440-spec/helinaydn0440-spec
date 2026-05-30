@@ -1,6 +1,6 @@
 # Merhaba! 👋 Ben Helin Aydın
 
-Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme dünyasında kendimi sürekli geliştirmeyi hedeflemiş biriyim. Özellikle C# ve masaüstü otomasyonları üzerinde çalışmaktan keyif alıyorum.
+Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme dünyasında kendim sürekli geliştirmeyi hedeflemiş biriyim. Özellikle C# ve masaüstü otomasyonları üzerinde çalışmaktan keyif alıyorum.
 
 ## 🛠 Teknik Yeteneklerim
 - **Programlama Dilleri:** C#
