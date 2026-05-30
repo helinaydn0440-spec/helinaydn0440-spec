@@ -1,4 +1,4 @@
-## Hi there 👋
+https://github.com/helinaydn0440-spec/Muhtarlik_kayit_Sistemi
 
 <!--
 **helinaydn0440-spec/helinaydn0440-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
